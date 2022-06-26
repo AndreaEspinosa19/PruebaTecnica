@@ -1,0 +1,17 @@
+{
+    "name": "aespi/prueba",
+    "autoload": {
+        "psr-4": {
+            "Aespi\\Prueba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrea Espinosa",
+            "email": "aespinosa@correo.udistrital.edu.co"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
